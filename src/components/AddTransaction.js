@@ -38,7 +38,7 @@ export const AddTransaction = () => {
                     } />
                     
                 </div>
-                <button style={{marginTop: 20,fontWeight: 200 }} className="button dark">Add transaction</button>
+                <button style={{marginTop: 20,fontWeight: 200 }} className="button dark">Add transaction.</button>
             </form>
         </div>
     )
